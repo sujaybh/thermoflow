@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ThermoFlow",
+  "description": "A high-performance, interactive 2D heat diffusion simulation. Visualize thermal dynamics in real-time using the Finite Difference Method.",
+  "requestFramePermissions": []
+}
